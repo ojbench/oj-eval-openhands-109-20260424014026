@@ -1,0 +1,11 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+code
+*.o
+test_solution
+brute
+brute2
+test_cross
+test_catalan
+*.cpp~
